@@ -6,7 +6,15 @@ Tested On Ventura 13.7 and Sonoma 14.0
 Download Link
 https://drive.google.com/file/d/1wlWE5n5il62Dh1KgMUqiFglPvZY7qtfH/view?usp=drive_link
 
-Note: If you're upgrading from Big Sur or Monterey make sure you disableed WiFi and Bluetooth kext
+Note: If you're upgrading from Big Sur or Monterey make sure you disableed WiFi and Bluetooth kext<p align="center">
+  
+ <p align="center">
+ <kbd><br>SONOMA
+  <br><br>
+  <kbd><img src="https://github.com/aalmahmudsk/Lenovo-Thinkpad-X1-Carbon-4th-Gen-Hackintosh-Ventura-Sonoma/blob/main/Sonoma.png"/></kbd></kbd>
+
+
+
 
 ### My Hardware
 

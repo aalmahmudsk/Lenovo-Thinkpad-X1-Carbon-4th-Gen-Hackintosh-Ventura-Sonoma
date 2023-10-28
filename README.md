@@ -8,8 +8,8 @@ Before using any of these files, make sure you have similar hardware.
 
 
 
-Tested On Ventura 13.7 and Sonoma 14.0
-, Opencore Version: 0.9.5
+OpenCore version: v0.9.5
+Tested MacOS version: 13.7 & 14.0
 
 You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
 Latest EFi can be found here, [`Download Here`](https://drive.google.com/file/d/1wlWE5n5il62Dh1KgMUqiFglPvZY7qtfH/view?usp=drive_link)

@@ -11,8 +11,9 @@ Before using any of these files, make sure you have similar hardware.
 Tested On Ventura 13.7 and Sonoma 14.0
 , Opencore Version: 0.9.5
 
-Download Link
-https://drive.google.com/file/d/1wlWE5n5il62Dh1KgMUqiFglPvZY7qtfH/view?usp=drive_link
+You can download the MacOS installation at the following link, [`Download Here`](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/)
+Latest EFi can be found here, [`Download Here`](https://drive.google.com/file/d/1wlWE5n5il62Dh1KgMUqiFglPvZY7qtfH/view?usp=drive_link)
+
 > *If you're upgrading from Big Sur or Monterey make sure you disableed WiFi and Bluetooth kexts*
   
  
@@ -34,9 +35,8 @@ https://drive.google.com/file/d/1wlWE5n5il62Dh1KgMUqiFglPvZY7qtfH/view?usp=drive
 * Sound Card: Conexant CX20753/4
 * Storage: 256GB SSD M.2 NVME
 * WLAN + Bluetooth: Intel Dual Band Wireless AC 8260
-> Airportitwlm is preconfigured based on the branch you use.
-> If you face any issues try different versions. Kexts for BigSur, Monterey and Ventura already available.
-> Just Enable and Disable accordingly in config.plist.
+> AirpoAirportitwlm needs to be replaced according to the OS version used, the latest airportitwlm default is itwlm 2.3
+> To download Airportitwlm [`click here`](https://github.com/OpenIntelWireless/itlwm/releases)
 * Camera: 720p
 * Keyboard: Backlit
 * Fingerprint Reader: Yes

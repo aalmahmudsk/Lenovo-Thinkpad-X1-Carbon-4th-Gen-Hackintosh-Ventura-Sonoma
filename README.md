@@ -1,0 +1,1 @@
+# Lenovo-Thinkpad-X1-Carbon-4th-Gen-Hackintosh-Ventura-Sonoma
